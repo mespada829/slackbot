@@ -1,6 +1,6 @@
 // This Google Sheets script will post to TLS provisioning channel when a user submits a request.
 
-var slackIncomingWebhookUrl = 'https://hooks.slack.com/services/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';
+var slackIncomingWebhookUrl = 'link';
 
 // Include # for public channels, omit it for private channels
 var postChannel = "tls-dns-bot";
